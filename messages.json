@@ -1,0 +1,22 @@
+{
+  "messages": [
+    {
+      "text": "🎉 Bem-vindo ao nosso grupo!\n\nClique em um dos botões abaixo.",
+      "image": "",
+      "buttons": [
+        {
+          "text": "🎰 Jogar Agora",
+          "url": "https://seulink1.com"
+        },
+        {
+          "text": "🎁 Bônus",
+          "url": "https://seulink2.com"
+        },
+        {
+          "text": "📢 Canal",
+          "url": "https://t.me/seucanal"
+        }
+      ]
+    }
+  ]
+}
