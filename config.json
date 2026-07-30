@@ -1,0 +1,9 @@
+{
+  "interval_minutes": 30,
+  "admins": [],
+  "groups": [],
+  "cycle": true,
+  "send_images": true,
+  "send_videos": true,
+  "max_buttons": 3
+}
